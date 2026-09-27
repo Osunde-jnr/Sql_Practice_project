@@ -136,14 +136,14 @@ Power BI  █████████ 39K
 ### Question 5: Optimal Skills (Best ROI)
 Combines demand + salary → **Python, Tableau, Snowflake, Azure** = highest ROI
 
-## 5. What I Learned
+## 6. What I Learned
 - **SQL is still king** – but no longer enough for top pay
 - **Cloud data warehouses (Snowflake, BigQuery) are the new salary rocket fuel**
 - **Python > R** in both demand and pay for analysts
 - **Soft tools (Jira, Confluence) appear in nearly all $180K+ roles**
 - **Remote work premium is real** – top 5 roles are all fully remote/hybrid
 
-## 6. Conclusion
+## 7. Conclusion
 If you're a data analyst wanting **$150K+ remote work in 2024**, stop learning only Excel + basic SQL.
 
 **Your 2024–2025 target stack**:
@@ -156,5 +156,7 @@ SQL (expert) → Python (Pandas) → Snowflake/Azure → Tableau → Git/Jira
 This analysis proves: **the modern data analyst is a mini data engineer** – master the cloud stack, and the six-figure remote jobs will chase you.
 
 ---
-**Data Source**: Project was inspired by Luke Barousse all credit is given to him   
+**Data Source & Inspiration:**:This project is based on Luke Barousse’s curriculum. Full credit to him for the dataset and learning path.
+
+
 **Tools**: PostgreSQL • VS Code • 
